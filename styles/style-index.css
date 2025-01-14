@@ -1,0 +1,19 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: aliceblue;
+}
+
+.header,
+.lists {
+  text-align: center;
+}
+
+.header {
+  color: rgb(75, 75, 75);
+  font-size: 50px;
+}
+
+.lists {
+  font-size: large;
+  font-weight: bold;
+}
